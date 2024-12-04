@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tecnologia na Educação</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tecnologia na Educação</h1>
+        <nav>
+            <ul>
+                <li><a href="#introducao">Introdução</a></li>
+                <li><a href="#positivos">Pontos Positivos</a></li>
+                <li><a href="#negativos">Pontos Negativos</a></li>
+                <li><a href="#referencias">Referências</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="introducao">
+            <h2>Introdução</h2>
+            <p>A tecnologia tem transformado a maneira como aprendemos e ensinamos. Neste site, exploramos os pontos positivos e negativos dessa evolução no campo da educação.</p>
+            <img src="https://via.placeholder.com/600x300" alt="Imagem representativa da tecnologia na educação">
+        </section>
+
+        <section id="positivos">
+            <h2>Pontos Positivos</h2>
+            <ul>
+                <li>Acesso a uma vasta quantidade de informações.</li>
+                <li>Facilidade na comunicação entre professores e alunos.</li>
+                <li>Uso de ferramentas interativas que tornam o aprendizado mais dinâmico.</li>
+            </ul>
+            <img src="https://via.placeholder.com/600x300" alt="Vantagens da tecnologia na educação">
+        </section>
+
+        <section id="negativos">
+            <h2>Pontos Negativos</h2>
+            <ul>
+                <li>Excesso de distrações durante o aprendizado online.</li>
+                <li>Dependência excessiva da tecnologia.</li>
+                <li>Desigualdade de acesso a dispositivos e internet.</li>
+            </ul>
+            <img src="https://via.placeholder.com/600x300" alt="Desvantagens da tecnologia na educação">
+        </section>
+
+        <section id="referencias">
+            <h2>Referências</h2>
+            <p>Confira algumas fontes utilizadas para a elaboração deste conteúdo:</p>
+            <ul>
+                <li><a href="https://www.unesco.org" target="_blank">UNESCO - Educação e Tecnologia</a></li>
+                <li><a href="https://www.edutopia.org" target="_blank">Edutopia</a></li>
+                <li><a href="https://www.educationtechnology.com" target="_blank">Education Technology</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 - Tecnologia na Educação. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
